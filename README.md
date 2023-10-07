@@ -1,30 +1,13 @@
 # mountainous-push-1678
 
-Construct week project JS201 Batch Project starts on 21-02-2023  and completed on 26-02-2023
+<h1>FashMart.Com</h1>
 
-Project Code => mountainous-push-1678
 Website Name => Fashmart.com
 
 Project type => E-commerce
 
-Collaborative / Solo => Collaborative of 5 member
 
-Members of Project group
 
-Mrunali Bind => fw22_0785 => Team Lead
-Fardeen Khan => fw23_0317 => Member
-Tanuj Kumar => fw21_1156 => Member
-Akshay Lonare => fp07_384 => Member
-Mohd Sharique => fw21_0976 => Member
-Mrunali Bind Me as a team leader worked and manage all the things running behined this project. I was worked on JSON server creation deploying and hardcoding data to make a beautiful API for our project. I was worked on admin side for adding and deleting the data form the server form admin only. I founded bugs and improved. Contributed in whole project with ideas.
-
-Fardeen Khan Me as team member worked on navbar of our project. I was also worked on Cart page and logical part of this. Contributed in whole project with ideas. Helped in other members tasks.
-
-Tanuj Kuma Me as team member worked on Landing page and improvising again and again as per requirements. Helped in other members tasks. Contributed in whole project with ideas.
-
-4 Mohd Shariqu Me as team member worked on Product page for different categories and logical part , sorting, filtering parts. I also worked on wishlist page and various changes with logical part. Contributed in whole project with ideas. Helped in other members tasks.
-
-Mohd Sharique Me as team member worked on Login Signup Checkout and Payment page. I also tested many time and find bugs and improved. Contributed in whole project with ideas. Helped in other members tasks.
 
 Clone of .com (Project)
 This is the project of cloning the website carter.com an American eCommerce website from where we can buy clothes and accesories for newborn Baby, Babies, kids. This project made under the guidance of Masai school during construct week This is a collaborative project of 5 members as already mentioned. We used HTML CSS Javascript and some external CSS for completing this project. It consist of various functionalities :- JSON server Login Signup, Fetch, Filter and sorting Dom manupulation etc.
