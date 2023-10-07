@@ -4,6 +4,8 @@ Website Name => Fashmart.com
 
 Project type => E-commerce
 
+Project View:- https://startling-blini-1dbc40.netlify.app/
+
 
 
 
